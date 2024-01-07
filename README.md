@@ -1,6 +1,12 @@
 # Sylvan Franklin
 
-- Front end: Svelte, Solid, React, Vue etc. 
+I'm an applied Math student at the UVM, feelin the JS fatigue (so many frameworks). 
+
+---
+
+## My Faves
+
+- Front end: Svelte, Solid, Tailwind, Framer, React, Vue etc. 
 - Normal: Java, Python, Lua, etc. 
 - Hot: Rust.  
 - Math: Julia, Tex, Haskell.
