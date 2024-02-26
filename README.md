@@ -1,23 +1,17 @@
 # Sylvan Franklin
 
-I'm an applied Math student at the UVM, feelin the JS fatigue
+ Applied Math student at the UVM
 
----
+## Technical
 
-## My Faves
-
-- Front end: Svelte, Solid, Tailwind, Framer, React, Vue etc. 
-- Back end: Java, Python, Lua, Typescript, etc. 
-- Hot: Rust.  
+- Front end: Svelte, Solid, Tailwind, Framer, React, Vue. 
+- Back end: Java, Python, Lua, Typescript, Rust 
 - Math: Julia, Tex, Haskell.
-
+- Vim for the win
 ---
 
-I use a 34 key [Ferris Sweep](https://github.com/pierrechevalier83/ferris), custom cropped for a sharper edges.  
+Ferris sweep keyboard: [Ferris Sweep](https://github.com/pierrechevalier83/ferris)
 
 ![failed to load asset](sweep.jpg "Ferris Sweep")
 
-## Work Flow
-
-Neovim, Alacritty, Colemak, and Sweep. Move FAST and FOSS. 
 
