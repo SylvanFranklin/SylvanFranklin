@@ -1,12 +1,13 @@
 # Sylvan Franklin
 
- Applied Math student at the UVM
+ Applied Math student at UVM
 
-## Technical
+## What I use
 
 - Front end: Svelte, Solid, Tailwind, Framer, React, Vue. 
-- Back end: Java, Python, Lua, Typescript, Rust 
-- Math: Julia, Tex, Haskell.
+- Back end: Java, Python, Lua, Typescript, Rust, Ruby. 
+- Framework: Bevy, Tauri, Pygame, Meilisearch, Rocket, Poem
+- Math: Julia, Tex, Haskell, Typst.
 - Vim for the win
 ---
 
