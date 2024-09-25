@@ -1,4 +1,4 @@
-Pure Math at UVM, check out my vim conf it's fire.
+Pure math at UVM, check out my vim conf it's buttery. 
 
 Ferris Sweep I use: [Ferris Sweep](https://github.com/pierrechevalier83/ferris)
 
