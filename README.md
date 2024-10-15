@@ -1,7 +1,1 @@
-Pure math at UVM, check out my vim conf it's buttery. 
-
-Ferris Sweep I use: [Ferris Sweep](https://github.com/pierrechevalier83/ferris)
-
-![failed to load asset](sweep.jpg "Ferris Sweep")
-
-
+Math student at UVM. I'm most capable with the frontend, but I do some systems stuff too.
