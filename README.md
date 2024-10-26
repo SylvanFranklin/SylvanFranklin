@@ -1,1 +1,1 @@
-Math student at UVM. I'm innersted in the frontend and mathy languages like hasekll.
+Undergraduate math student at the University of Vermont. Check out the Stormy Seas of Cyprus game developed with John.Franklin@uvm.edu, art by Glynnis Fawkes. Check out my vim dotfiles for a buttery LaTeX / Typst math setup! 
