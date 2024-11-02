@@ -1,1 +1,1 @@
-Undergraduate math student at the University of Vermont. Check out the Stormy Seas of Cyprus game developed with John.Franklin@uvm.edu, art by Glynnis Fawkes. Check out my vim dotfiles for a buttery LaTeX / Typst math setup! 
+Undergraduate math student at the University of Vermont. Check out my vim dotfiles for a buttery LaTeX / Typst math setup! 
