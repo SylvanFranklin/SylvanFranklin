@@ -1,1 +1,1 @@
-Undergraduate math student at the University of Vermont. Check out my vim dotfiles for a buttery LaTeX / Typst math setup! 
+Director of dynamic intrepolation for comprehensive media distribution and analysis as it applies to hueristic community building and inclusive workplace practices through the open ambiguity foundation. Undergrad math at UVM.
