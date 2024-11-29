@@ -3,4 +3,4 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 
 Also lowkey Undergrad math at **UVM** type jazz ong.
 
-![failed to load image, but it's sick trust](./sweephalf.jpg)
+<!-- ![failed to load image, but it's sick trust](./sweephalf.jpg) -->
