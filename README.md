@@ -4,8 +4,5 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 # Currently Learning
 - Industrial confusion engineering
 - verose abstraction
-- liquification of solids in a hybrid environment
+- liquification
 - analytical analysis
-
-# School 
-I'm problably still a student at UVM with a minor in majors and two majors: one in miners and the other in minors (sub concentrations in higher education). 
