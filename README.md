@@ -8,4 +8,4 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 - analytical analysis
 
 # School 
-I'm problably still a student at UVM with a minor in majors and two majors: one in miners and the other in minors (like concentrations in higher education). 
+I'm problably still a student at UVM with a minor in majors and two majors: one in miners and the other in minors (sub concentrations in higher education). 
