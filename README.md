@@ -3,6 +3,7 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 
 # Currently Learning
 - Industrial confusion & inconviencience engineering
+- Force push and pray
 - verose abstraction (in the general sense as it applies to cubic regression)
 - liquification
 - analytical analysis
