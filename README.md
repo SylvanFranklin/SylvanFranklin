@@ -8,3 +8,5 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 - liquification
 - analytical analysis
 - Rats (those lil cheese eating gray guys)
+
+If 'nonsense' hits GitHub trending I'll deadass switch to Gentoo linux
