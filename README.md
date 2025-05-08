@@ -9,4 +9,4 @@ Director of dynamic interpolation for comprehensive media distribution and analy
 - analytical analysis
 - Rats (those lil cheese eating gray guys)
 
-If 'nonsense' ever hits GitHub trending I'll deadass switch to Gentoo linux. 
+If 'nonsense' ever hits GitHub trending I'll deadass switch to Gentoo linux (okay maybe not but Arch or Artix or Nix)
